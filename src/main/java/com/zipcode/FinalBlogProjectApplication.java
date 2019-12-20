@@ -1,13 +1,13 @@
-package com.zipcode.group3blog.group3blog;
+package com.zipcode;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Group3blogApplication {
+public class FinalBlogProjectApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Group3blogApplication.class, args);
+		SpringApplication.run(FinalBlogProjectApplication.class, args);
 	}
 
 }
